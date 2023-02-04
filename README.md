@@ -3,6 +3,7 @@
 ## A
 
 ## B
+[binding - DataBinding](https://github.com/okrecords/AppEightDice#databinding)
 
 ## C
 [CardView](https://github.com/okrecords/AppEightPhotoAlbum#cardview) : 모서리 Corner Radius
@@ -37,6 +38,7 @@
 ## Q
 
 ## R
+[Random Number](https://github.com/okrecords/AppEightDice#random-number) : 랜덤 숫자
 
 ## S
 [scaleType](https://github.com/okrecords/AppEightPhotoAlbum#scaletype) : 이미지 비율, 크기
@@ -50,6 +52,7 @@
 ## V
 
 ## W
+[when](https://github.com/okrecords/AppEightDice#when) : 제어문, Java switch 대체
 
 ## X
 
