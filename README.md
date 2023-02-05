@@ -13,6 +13,7 @@
 ## E
 
 ## F
+[fontFamily](https://github.com/okrecords/AppEightGoodWords#fontfamily) : 글꼴 변경
 
 ## G
 
@@ -26,12 +27,14 @@
 ## K
 
 ## L
+[ListView](https://github.com/okrecords/AppEightGoodWords#listview) : 리스트 형태의 데이터를 세로 방향으로 나열하여 화면에 표시하는 뷰 그룹의 한 종류
 
 ## M
 
 ## N
 
 ## O
+[onBackPressed](https://github.com/okrecords/AppEightGoodWords#onbackpressed) : 뒤로 가기
 
 ## P
 
