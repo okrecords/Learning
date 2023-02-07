@@ -15,6 +15,8 @@
 ## F
 [fontFamily](https://github.com/okrecords/AppEightGoodWords#fontfamily) : 글꼴 변경
 
+[Fragment - navigation](https://github.com/okrecords/AppEightMusicList#fragment-navigation) : 부분화면
+
 ## G
 
 ## H
@@ -42,6 +44,8 @@
 
 ## R
 [Random Number](https://github.com/okrecords/AppEightDice#random-number) : 랜덤 숫자
+
+[RecyclerView](https://github.com/okrecords/AppEightMusicList#recyclerview) : 리스트뷰 + 뷰홀더 패턴
 
 ## S
 [scaleType](https://github.com/okrecords/AppEightPhotoAlbum#scaletype) : 이미지 비율, 크기
