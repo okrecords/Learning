@@ -9,10 +9,15 @@
 [CardView](https://github.com/okrecords/AppEightPhotoAlbum#cardview) : 모서리 Corner Radius
 
 ## D
+[Dialog - AlertDialog](https://github.com/okrecords/AppEightExerciseMemo#alertdialog) : 맞춤 레이아웃을 표시할 수 있는 대화상자
 
 ## E
 
 ## F
+[Firebase - Realtime Database](https://github.com/okrecords/AppEightExerciseMemo#firebase-realtime-database) : 데이터 저장, 불러오기
+
+[Firebase - 익명 로그인](https://github.com/okrecords/AppEightExerciseMemo#firebase-%EC%9D%B5%EB%AA%85-%EB%A1%9C%EA%B7%B8%EC%9D%B8) : 익명 계정 생성 및 사용
+
 [fontFamily](https://github.com/okrecords/AppEightGoodWords#fontfamily) : 글꼴 변경
 
 [Fragment - navigation](https://github.com/okrecords/AppEightMusicList#fragment-navigation) : 부분화면
