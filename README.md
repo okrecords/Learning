@@ -11,10 +11,14 @@
 ## D
 [Dialog - AlertDialog](https://github.com/okrecords/AppEightExerciseMemo#alertdialog) : 맞춤 레이아웃을 표시할 수 있는 대화상자
 
+[Drawable - shape](https://github.com/okrecords/AppEightWeb#drawable---shape) : 일반 도형(직사각형, 타원 등) 그리는 shape xml
+
 ## E
 
 ## F
-[Firebase Authentication - 익명 로그인](https://github.com/okrecords/AppEightExerciseMemo#firebase-%EC%9D%B5%EB%AA%85-%EB%A1%9C%EA%B7%B8%EC%9D%B8) : 익명 계정 생성 및 사용
+[Firebase Authentication - 익명 로그인](https://github.com/okrecords/AppEightExerciseMemo#firebase-authentication---%EC%9D%B5%EB%AA%85-%EB%A1%9C%EA%B7%B8%EC%9D%B8) : 익명 계정 생성 및 사용
+
+[Firebase Authentication - 이메일/비밀번호 로그인](https://github.com/okrecords/AppEightWeb#firebase-authentication---%EC%9D%B4%EB%A9%94%EC%9D%BC%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8-%EB%A1%9C%EA%B7%B8%EC%9D%B8) : 이메일 계정 생성 및 사용
 
 [Firebase Realtime Database](https://github.com/okrecords/AppEightExerciseMemo#firebase-realtime-database) : 데이터 저장, 불러오기
 
@@ -64,6 +68,8 @@
 ## V
 
 ## W
+[WebView](https://github.com/okrecords/AppEightWeb#webview) : 웹 브라우저를 앱에서 표시
+
 [when](https://github.com/okrecords/AppEightDice#when) : 제어문, Java switch 대체
 
 ## X
@@ -73,3 +79,4 @@
 ## Z
 
 ## 기타
+[->(separator)](https://github.com/okrecords/AppEightWeb#-separator)
