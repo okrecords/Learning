@@ -14,9 +14,9 @@
 ## E
 
 ## F
-[Firebase - Realtime Database](https://github.com/okrecords/AppEightExerciseMemo#firebase-realtime-database) : 데이터 저장, 불러오기
+[Firebase Authentication - 익명 로그인](https://github.com/okrecords/AppEightExerciseMemo#firebase-%EC%9D%B5%EB%AA%85-%EB%A1%9C%EA%B7%B8%EC%9D%B8) : 익명 계정 생성 및 사용
 
-[Firebase - 익명 로그인](https://github.com/okrecords/AppEightExerciseMemo#firebase-%EC%9D%B5%EB%AA%85-%EB%A1%9C%EA%B7%B8%EC%9D%B8) : 익명 계정 생성 및 사용
+[Firebase Realtime Database](https://github.com/okrecords/AppEightExerciseMemo#firebase-realtime-database) : 데이터 저장, 불러오기
 
 [fontFamily](https://github.com/okrecords/AppEightGoodWords#fontfamily) : 글꼴 변경
 
