@@ -11,6 +11,8 @@
 ## D
 [Dialog - AlertDialog](https://github.com/okrecords/AppEightExerciseMemo#alertdialog) : 맞춤 레이아웃을 표시할 수 있는 대화상자
 
+[Dialog - DatePickerDialog](https://github.com/okrecords/AppEightDday#datepickerdialog) : 다이알로그 결합 캘린더, 날짜
+
 [Drawable - shape](https://github.com/okrecords/AppEightWeb#drawable---shape) : 일반 도형(직사각형, 타원 등) 그리는 shape xml
 
 ## E
@@ -31,6 +33,8 @@
 ## H
 
 ## I
+[ImageView - 흑백](https://github.com/okrecords/AppEightDday#imageview-%ED%9D%91%EB%B0%B1) : 이미지 흑백 변경
+
 [Intent - explicit](https://github.com/okrecords/AppEightPhotoAlbum#intent---explicit) : 명시적 인텐트
 
 ## J
