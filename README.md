@@ -3,6 +3,10 @@
 ## A
 
 ## B
+[Background Music - MediaPlayer](https://github.com/okrecords/Card#background-music---mediaplayer) : bgm
+
+[Background Music - SoundPool](https://github.com/okrecords/Card#background-music---soundpool) : bgm 효과음
+
 [BottomNavigationView](https://github.com/okrecords/Carrot#bottomnavigationview) : 하단에 3~5가지의 동작이 있는 뷰
 
 [BottomNavigationView 속성1](https://github.com/okrecords/Carrot#bottomnavigationview-%EC%86%8D%EC%84%B1) : 아이콘 title 모두 보이기, 선택 시 아이콘 변경
@@ -10,6 +14,8 @@
 [BottomNavigationView 속성2](https://github.com/okrecords/Zig#bottomnavigationview---%EC%84%A0%ED%83%9D-%EC%8B%9C-%EC%95%84%EC%9D%B4%EC%BD%98-%EA%B8%80%EC%9E%90-%EC%83%89-%EB%B3%80%EA%B2%BD) : 선택 시 아이콘, 글자 색 변경
 
 [binding - DataBinding](https://github.com/okrecords/AppEightDice#databinding)
+
+[button - textAllCaps](https://github.com/okrecords/Card#button---%EC%86%8C%EB%AC%B8%EC%9E%90) : text default 대문자를 소문자도 출력될 수 있도록
 
 [button - 최소 사이즈 변경](https://github.com/okrecords/Olive#button---%EC%B5%9C%EC%86%8C-%EC%82%AC%EC%9D%B4%EC%A6%88-%EB%B3%80%EA%B2%BD) : button 크기 작게
 
@@ -24,6 +30,8 @@
 [Dialog - AlertDialog](https://github.com/okrecords/AppEightExerciseMemo#alertdialog) : 맞춤 레이아웃을 표시할 수 있는 대화상자
 
 [Dialog - DatePickerDialog](https://github.com/okrecords/AppEightDday#datepickerdialog) : 다이알로그 결합 캘린더, 날짜
+
+[Dialog - 외부 터치 시 창 닫지 않기](https://github.com/okrecords/Card#dialog---%EC%99%B8%EB%B6%80-%ED%84%B0%EC%B9%98-%EC%8B%9C-%EC%B0%BD-%EB%8B%AB%EC%A7%80-%EC%95%8A%EA%B8%B0) : 외부 영역 터치 dismiss 막기
 
 [dimen](https://github.com/okrecords/Olive#dimen) : 해상도 대응
 
@@ -135,6 +143,8 @@
 
 [TextWatcher](https://github.com/okrecords/Carrot#textwatcher) : EditText 입력 변경 이벤트 탐지
 
+[Timer - 시작, 일시정지](https://github.com/okrecords/Card#timer---%EC%8B%9C%EC%9E%91-%EC%9D%BC%EC%8B%9C%EC%A0%95%EC%A7%80) : 타이머
+
 [Toolbar - margin](https://github.com/okrecords/Carrot#toolbar---margin) : title과 icon 사이, icon과 parent 사이
 
 [Toolbar - 뒤로가기](https://github.com/okrecords/Carrot#toolbar---%EB%92%A4%EB%A1%9C%EA%B0%80%EA%B8%B0) : 툴바 왼쪽 버튼 뒤로가기
@@ -156,3 +166,6 @@
 
 ## 기타
 [->(separator)](https://github.com/okrecords/AppEightWeb#-separator)
+
+[화면 가로, 세로 모드](https://github.com/okrecords/Card#%ED%99%94%EB%A9%B4-%EA%B0%80%EB%A1%9C-%EC%84%B8%EB%A1%9C-%EB%AA%A8%EB%93%9C) : LANDSCAPE, PORTRAIT
+
