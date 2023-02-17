@@ -1,6 +1,7 @@
 # Android Learning
 
 ## A
+[Animation - gradient Background](https://github.com/okrecords/Mega#animation---gradient-background) : 그라데이션 백그라운드 애니메이션
 
 ## B
 [Background Music - MediaPlayer](https://github.com/okrecords/Card#background-music---mediaplayer) : bgm
@@ -20,7 +21,11 @@
 [button - 최소 사이즈 변경](https://github.com/okrecords/Olive#button---%EC%B5%9C%EC%86%8C-%EC%82%AC%EC%9D%B4%EC%A6%88-%EB%B3%80%EA%B2%BD) : button 크기 작게
 
 ## C
+[Calendar](https://github.com/okrecords/Mega#calendar) : 날짜 구하기, 출력 포맷 지정
+
 [CardView](https://github.com/okrecords/AppEightPhotoAlbum#cardview) : 모서리 Corner Radius
+
+[CardView - cardUseCompatPadding](https://github.com/okrecords/Mega#cardview---cardusecompatpadding) : width, height가 주변 동일하여 elevation(그림자 높이) 적용 안될 경우 cardUseCompatPadding 사용
 
 [CardView - 그림자 제거](https://github.com/okrecords/Carrot#cardview---%EA%B7%B8%EB%A6%BC%EC%9E%90-%EC%A0%9C%EA%B1%B0) : 카드뷰 그림자 제거
 
@@ -41,6 +46,8 @@
 
 ## E
 [EditText - image 넣기](https://github.com/okrecords/Olive#edittext---image-%EB%84%A3%EA%B8%B0) : drawableLeft
+
+[EditText - 속성](https://github.com/okrecords/Mega#edittext---%EC%86%8D%EC%84%B1) : 밑줄 색, hint Color, hint Size
 
 [EditText - 자동 포커스 막기](https://github.com/okrecords/Carrot#edittext---%EC%9E%90%EB%8F%99-%ED%8F%AC%EC%BB%A4%EC%8A%A4-%EB%A7%89%EA%B8%B0) : 키보드가 자동으로 올라오지 않게
 
@@ -90,6 +97,8 @@
 ## M
 
 ## N
+[Naver Id Login Api](https://github.com/okrecords/Mega#%EB%84%A4%EC%9D%B4%EB%B2%84-%EC%95%84%EC%9D%B4%EB%94%94-%EB%A1%9C%EA%B7%B8%EC%9D%B8-api) : 네이버 아이디 로그인 api
+
 [NestedScrollView](https://github.com/okrecords/Olive#nestedscrollview) : ScrollView
 
 ## O
@@ -113,7 +122,11 @@
 
 [RecyclerView - 스크롤 최상단, 최하단](https://github.com/okrecords/Carrot#recyclerview---%EC%8A%A4%ED%81%AC%EB%A1%A4-%EC%B5%9C%EC%83%81%EB%8B%A8-%EC%B5%9C%ED%95%98%EB%8B%A8) : RecyclerView 스크롤 맨 위로, 맨 아래로
 
+[RecyclerView - 양쪽 아이템에만 padding](https://github.com/okrecords/Mega#recyclerview---%EC%96%91%EC%AA%BD-%EC%95%84%EC%9D%B4%ED%85%9C%EC%97%90%EB%A7%8C-padding) : scroll할 때 양쪽 간격이 그대로 노출되지 않도록 margin 대신 clipToPadding 속성 사용
+
 [RecyclerView - 역순 정렬](https://github.com/okrecords/Carrot#recyclerview---%EC%97%AD%EC%88%9C-%EC%A0%95%EB%A0%AC) : RecyclerView 역순
+
+[Retrofit](https://github.com/okrecords/Mega#retrofit) : 서버와 클라이언트 간 http 통신을 위한 라이브러리
 
 ## S
 [scaleType](https://github.com/okrecords/AppEightPhotoAlbum#scaletype) : 이미지 비율, 크기
@@ -133,6 +146,8 @@
 ## T
 [Tablayout](https://github.com/okrecords/Olive#tablayout) : Tab을 눌렀을 때 각각 다른 페이지를 보여주는 Layout(ViewPager2, Fragment)
 
+[Tablayout - addOnTabSelectedListener](https://github.com/okrecords/Mega#tablayout---addontabselectedlistener) : textStyle(normal, bold), textSize, textColor, Tab position 눌렀을 때 보여줄 화면 설정
+
 [Tablayout - 속성](https://github.com/okrecords/Olive#tablayout-%EC%86%8D%EC%84%B1) : tabRippleColor, tabIndicatorFullWidth, tabIndicatorColor, tabIndicator, Scrollable
 
 [Text - spacing](https://github.com/okrecords/Olive#%EC%9E%90%EA%B0%84%EA%B8%80%EC%9E%90-%EA%B0%84%EA%B2%A9-%EC%A1%B0%EC%A0%95) : 자간(글자 간격) 조정 letterSpacing, 줄 간격 조정 lineSpacingExtra lineSpacingMultiplier
@@ -140,6 +155,8 @@
 [TextView - color](https://github.com/okrecords/Carrot#textview---color) : setTextColor
 
 [TextView - drawableLeft 속성](https://github.com/okrecords/Carrot#textview---drawableleft) : TextView 이미지 사이즈 조절, 이미지와 text 사이 간격
+
+[TextView - 속성](https://github.com/okrecords/Mega#textview---%EC%86%8D%EC%84%B1) : TextView의 라인 수, Text가 TextView를 넘어갔을 때 표시할 방법(end(뒷부분 ...), marquee(흐르기))
 
 [TextWatcher](https://github.com/okrecords/Carrot#textwatcher) : EditText 입력 변경 이벤트 탐지
 
