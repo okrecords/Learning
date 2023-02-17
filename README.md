@@ -5,7 +5,9 @@
 ## B
 [BottomNavigationView](https://github.com/okrecords/Carrot#bottomnavigationview) : 하단에 3~5가지의 동작이 있는 뷰
 
-[BottomNavigationView 속성](https://github.com/okrecords/Carrot#bottomnavigationview-%EC%86%8D%EC%84%B1) : 아이콘 title 모두 보이기, 선택 시 아이콘 변경
+[BottomNavigationView 속성1](https://github.com/okrecords/Carrot#bottomnavigationview-%EC%86%8D%EC%84%B1) : 아이콘 title 모두 보이기, 선택 시 아이콘 변경
+
+[BottomNavigationView 속성2](https://github.com/okrecords/Zig#bottomnavigationview---%EC%84%A0%ED%83%9D-%EC%8B%9C-%EC%95%84%EC%9D%B4%EC%BD%98-%EA%B8%80%EC%9E%90-%EC%83%89-%EB%B3%80%EA%B2%BD) : 선택 시 아이콘, 글자 색 변경
 
 [binding - DataBinding](https://github.com/okrecords/AppEightDice#databinding)
 
@@ -54,6 +56,9 @@
 [Fragment - navigation](https://github.com/okrecords/AppEightMusicList#fragment-navigation) : 부분화면
 
 ## G
+[Glide](https://github.com/okrecords/Zig#glide) : 이미지 라이브러리
+
+[Glide - 이미지 원형](https://github.com/okrecords/Zig#glide---%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%9B%90%ED%98%95) : 테두리 원
 
 ## H
 
@@ -92,6 +97,8 @@
 
 [RecyclerView](https://github.com/okrecords/AppEightMusicList#recyclerview) : 리스트뷰 + 뷰홀더 패턴
 
+[RecyclerView - checkbox](https://github.com/okrecords/Zig#recyclerview---checkbox) : 체크박스 문제
+
 [RecyclerView - payload](https://github.com/okrecords/Carrot#recyclerview---payload) : 특정 position 항목만 갱신해야 될 때 payload 사용
 
 [RecyclerView - 변경 알림 메소드](https://github.com/okrecords/Carrot#recyclerview---%EB%B3%80%EA%B2%BD-%EC%95%8C%EB%A6%BC-%EB%A9%94%EC%86%8C%EB%93%9C) : notifyDataSetChanged(), notifyItemChanged(), notifyItemInserted(), notifyItemMoved(), notifyItemRemoved()
@@ -105,9 +112,13 @@
 
 [ScrollView - Hide Scrollbar](https://github.com/okrecords/Olive#scrollview---hide-scrollbar) : 스크롤바 없애기
 
+[ShapeableImageView](https://github.com/okrecords/Zig#shapeableimageview---%EC%9D%B4%EB%AF%B8%EC%A7%80-corner-%EC%9D%BC%EB%B6%80%EB%A7%8C-radius) : 이미지 corner모서리 일부만 radius
+
 [SharedPreferences](https://github.com/okrecords/Carrot#sharedpreferences) : 앱 내부에 데이터를 파일로 저장
 
 [Splash Screen](https://github.com/okrecords/AppEightPhotoAlbum#splash-screen) : 앱이 실행될 때 나타나는 화면
+
+[Status Bar - 색상 변경](https://github.com/okrecords/Zig#%EC%83%81%ED%83%9C-%EB%B0%94status-bar---%EC%83%89%EC%83%81-%EB%B3%80%EA%B2%BD) : 상태 바
 
 [Swiperefreshlayout](https://github.com/okrecords/Carrot#swiperefreshlayout) : 아래로 당겨서 새로고침
 
