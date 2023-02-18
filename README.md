@@ -1,5 +1,7 @@
 # Android Learning
 
+Android Error&Warning page [이동](https://github.com/okrecords/Learning/blob/main/AndroidError.md)
+
 ## A
 [Animation - gradient Background](https://github.com/okrecords/Mega#animation---gradient-background) : 그라데이션 백그라운드 애니메이션
 
@@ -78,8 +80,6 @@
 ## H
 
 ## I
-[ImageView - Missing contentDescription attribute on image](https://github.com/okrecords/Olive#imageview---missing-contentdescription-attribute-on-image) : warning
-
 [ImageView - 흑백](https://github.com/okrecords/AppEightDday#imageview-%ED%9D%91%EB%B0%B1) : 이미지 흑백 변경
 
 [Intent - explicit](https://github.com/okrecords/AppEightPhotoAlbum#intent---explicit) : 명시적 인텐트
