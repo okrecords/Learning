@@ -5,6 +5,8 @@ Android Error&Warning page [이동](https://github.com/okrecords/Learning/blob/m
 ## A
 [Animation - gradient Background](https://github.com/okrecords/Mega#animation---gradient-background) : 그라데이션 백그라운드 애니메이션
 
+[AppBar - 투명도 변화](https://github.com/okrecords/RC/blob/main/RC/Test/Bunjanglearn.md#appbar---%ED%88%AC%EB%AA%85%EB%8F%84-%EB%B3%80%ED%99%94) : 스크롤에 따른 alpha 값 변화
+
 ## B
 [Background Music - MediaPlayer](https://github.com/okrecords/Card#background-music---mediaplayer) : bgm
 
@@ -49,9 +51,15 @@ Android Error&Warning page [이동](https://github.com/okrecords/Learning/blob/m
 ## E
 [EditText - image 넣기](https://github.com/okrecords/Olive#edittext---image-%EB%84%A3%EA%B8%B0) : drawableLeft
 
+[Edittext - focus에 따른 밑줄 색](https://github.com/okrecords/RC/blob/main/RC/Test/Bunjanglearn.md#edittext---focus%EC%97%90-%EB%94%B0%EB%A5%B8-%EB%B0%91%EC%A4%84-%EC%83%89) : 포커스 색 
+
 [EditText - 속성](https://github.com/okrecords/Mega#edittext---%EC%86%8D%EC%84%B1) : 밑줄 색, hint Color, hint Size
 
 [EditText - 자동 포커스 막기](https://github.com/okrecords/Carrot#edittext---%EC%9E%90%EB%8F%99-%ED%8F%AC%EC%BB%A4%EC%8A%A4-%EB%A7%89%EA%B8%B0) : 키보드가 자동으로 올라오지 않게
+
+[EditText - 천단위 콤마](https://github.com/okrecords/RC/blob/main/RC/Test/Bunjanglearn.md#edittext---%EC%B2%9C%EB%8B%A8%EC%9C%84-%EC%BD%A4%EB%A7%88) : 단위 표현
+
+[EditText - 커서 위치](https://github.com/okrecords/RC/blob/main/RC/Test/Bunjanglearn.md#edittext---%EC%BB%A4%EC%84%9C-%EC%9C%84%EC%B9%98) : setSelection 
 
 [EditText - 클릭 시 하단이 키보드에 가리는 현상 제거](https://github.com/okrecords/Carrot#edittext---%ED%81%B4%EB%A6%AD-%EC%8B%9C-%ED%95%98%EB%8B%A8%EC%9D%B4-%ED%82%A4%EB%B3%B4%EB%93%9C%EC%97%90-%EA%B0%80%EB%A6%AC%EB%8A%94-%ED%98%84%EC%83%81-%EC%A0%9C%EA%B1%B0) : 키보드와 함께 올라오기
 
@@ -141,6 +149,10 @@ Android Error&Warning page [이동](https://github.com/okrecords/Learning/blob/m
 
 [Status Bar - 색상 변경](https://github.com/okrecords/Zig#%EC%83%81%ED%83%9C-%EB%B0%94status-bar---%EC%83%89%EC%83%81-%EB%B3%80%EA%B2%BD) : 상태 바
 
+[StatusBar - 전체 화면](https://github.com/okrecords/RC/blob/main/RC/Test/Bunjanglearn.md#edittext---focus%EC%97%90-%EB%94%B0%EB%A5%B8-%EB%B0%91%EC%A4%84-%EC%83%89) : 상태 바 투명 + 전체
+
+[String - substring](https://github.com/okrecords/RC/blob/main/RC/Test/Bunjanglearn.md#string---substring) : 문자열 자르기
+
 [Swiperefreshlayout](https://github.com/okrecords/Carrot#swiperefreshlayout) : 아래로 당겨서 새로고침
 
 ## T
@@ -169,6 +181,9 @@ Android Error&Warning page [이동](https://github.com/okrecords/Learning/blob/m
 ## U
 
 ## V
+[ViewPager2 - auto sliding](https://github.com/okrecords/RC/blob/main/RC/Test/Bunjanglearn.md#viewpager2---auto-sliding) : 이미지 자동 슬라이딩
+
+[ViewPager2 - Indicator](https://github.com/okrecords/RC/blob/main/RC/Test/Bunjanglearn.md#viewpager2---indicator) : 인디케이터
 
 ## W
 [WebView](https://github.com/okrecords/AppEightWeb#webview) : 웹 브라우저를 앱에서 표시
