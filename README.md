@@ -1,7 +1,5 @@
 # Android Learning
 
-Android Error&Warning page [이동](https://github.com/okrecords/Learning/blob/main/AndroidError.md)
-
 ## A
 [Animation - Frame By Frame](https://github.com/okrecords/SesacBasicAnimation#animation---frame-by-frame) : 애니메이션, AnimationDrawable, animation-list xml, ImageSwitcher
 
@@ -284,8 +282,10 @@ Android Error&Warning page [이동](https://github.com/okrecords/Learning/blob/m
 
 [화면 가로, 세로 모드](https://github.com/okrecords/Card#%ED%99%94%EB%A9%B4-%EA%B0%80%EB%A1%9C-%EC%84%B8%EB%A1%9C-%EB%AA%A8%EB%93%9C) : LANDSCAPE, PORTRAIT
 
-
 ## Deprecated
 [Deprecated - startActivityForResult](https://github.com/okrecords/SesacIntent#deprecated---startactivityforresult) : 대체 - registerForActivityResult
 
 [Deprecated - AsyncTask](https://github.com/okrecords/SesacAndroidThread#deprecated---asynctask) : 대체 - RxJava, Coroutine
+
+## Error & Warning
+Android Error&Warning page [이동](https://github.com/okrecords/Learning/blob/main/AndroidError.md)
