@@ -154,7 +154,7 @@ Android Error&Warning page [이동](https://github.com/okrecords/Learning/blob/m
 
 [NestedScrollView](https://github.com/okrecords/Olive#nestedscrollview) : ScrollView
 
-[NotificationChannel](https://github.com/okrecords/SesacService#notificationchannel) : 
+[NotificationChannel](https://github.com/okrecords/SesacService#notificationchannel) : 알림채널
 
 ## O
 [onBackPressed](https://github.com/okrecords/AppEightGoodWords#onbackpressed) : 뒤로 가기
