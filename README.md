@@ -132,6 +132,8 @@
 ## J
 
 ## K
+[kakao map API](https://github.com/okrecords/OreumMark/blob/master/learn.md#kakao-map-api) : 카카오 맵
+
 [keyboard - windowSoftInputMode](https://github.com/okrecords/Carrot#%ED%82%A4%EB%B3%B4%EB%93%9C-windowsoftinputmode-%EC%84%A4%EC%A0%95) : 키보드 windowSoftInputMode 설정
 
 ## L
