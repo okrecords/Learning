@@ -22,6 +22,8 @@
 
 [BottomNavigationView](https://github.com/okrecords/Carrot#bottomnavigationview) : 하단에 3~5가지의 동작이 있는 뷰
 
+[BottomNavigationView - font](https://github.com/okrecords/OreumMark/blob/master/learn.md#bottomnavigationview---font) : 폰트 변경
+
 [BottomNavigationView 속성1](https://github.com/okrecords/Carrot#bottomnavigationview-%EC%86%8D%EC%84%B1) : 아이콘 title 모두 보이기, 선택 시 아이콘 변경
 
 [BottomNavigationView 속성2](https://github.com/okrecords/Zig#bottomnavigationview---%EC%84%A0%ED%83%9D-%EC%8B%9C-%EC%95%84%EC%9D%B4%EC%BD%98-%EA%B8%80%EC%9E%90-%EC%83%89-%EB%B3%80%EA%B2%BD) : 선택 시 아이콘, 글자 색 변경
